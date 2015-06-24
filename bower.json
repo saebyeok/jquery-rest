@@ -1,0 +1,27 @@
+{
+  "name": "jquery-rest",
+  "version": "0.0.1",
+  "authors": [
+    "saebyeok <marsturn@gmail.com>"
+  ],
+  "description": "rest api for jquery",
+  "main": "src/jquery.rest.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "yui"
+  ],
+  "keywords": [
+    "http",
+    "rest"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
